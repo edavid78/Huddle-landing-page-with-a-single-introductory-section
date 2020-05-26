@@ -128,6 +128,7 @@ footer .container .flex-container div .fa-instagram {
 @media only screen and (max-width: 768px) {
   body {
     background-image: url(../images/bg-mobile.svg);
+    background-size: contain;
   }
   .container {
     padding: 31px 34px;
